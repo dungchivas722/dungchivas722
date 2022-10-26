@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dungchivas722" alt="dungchivas722" /></a> </p>
 
-- 🌱 I’m currently learning **ROS, IOT Fullstack, Protocol, ...**
+- 🌱 I’m currently learning **RTOS, IOT Fullstack, Protocol, ...**
 
 - 📫 How to reach me **dungchivas722@gmail.com**
 
-- ⚡ Fun fact **I like print 3D, running, ...**
+- ⚡ Fun fact **I like 3D printer, running, ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
