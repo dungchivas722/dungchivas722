@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dungchivas722" alt="dungchivas722" /></a> </p>
 
-- 🌱 I’m currently learning **RTOS, IOT Fullstack, Protocol, ...**
+- 🌱 I’m currently learning **RTOS, IOT , Automotive, Qml, Qt ...**
 
 - 📫 How to reach me **dungchivas722@gmail.com**
 
